@@ -61,25 +61,37 @@ Open PoolCounterApp.xcodeproj or PoolCounterApp.xcworkspace.
 3.	Build & Run:
 Choose your simulator or plug in your iPhone and hit the play button!
 
-⸻
+---
 
 🎯 Why I Built This
 
 This project is more than just a score tracker — it’s a demonstration of my skills in SwiftUI, user experience design, and persistent data management for iOS. I built Pool Counter from scratch to solve a real problem for myself and friends, and to showcase my ability to turn design ideas into production-ready code.
 
-⸻
+---
+🛣️ Roadmap / Planned Features
+
+- Game history and session logs (see every match ever played)
+- Export stats to CSV or PDF
+- In-app charts and leaderboards
+- Light/Dark mode toggle
+- Support for other cue sports (snooker, 9-ball, etc)
+- Sync profiles and stats across devices (iCloud)
+- Achievements/badges for milestones
+
+---
+  
 
 👋 About Me
 
 I’m a passionate iOS developer who loves building elegant solutions to everyday problems. Interested in chatting about SwiftUI, product design, or the perfect pool break?
 Let’s connect!
 
-⸻
+---
 
 📄 License
 
 MIT License
 
-⸻
+---
 
 Built for fun, feedback, and the future of simple scorekeeping.
